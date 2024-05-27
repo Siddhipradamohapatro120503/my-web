@@ -33,7 +33,7 @@ function Home2() {
                 <b className="purple">Devops and Cloud Applications </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  WEB3.0, AI/ML, LLM, NLP and Backend Development. up
+                  WEB3.0, AI/ML, LLM, NLP and Backend Development.
                 </b>
               </i>
               <br />
