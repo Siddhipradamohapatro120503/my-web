@@ -1,30 +1,31 @@
 {
   "files": {
     "main.css": "/static/css/main.ce900138.css",
-    "main.js": "/static/js/main.21cd8738.js",
+    "main.js": "/static/js/main.d2154346.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/avatar.svg": "/static/media/avatar.60418752588cc44a745f635ae6335fbb.svg",
     "static/media/Selenify.png": "/static/media/Selenify.66e881d72883e6122d39.png",
+    "static/media/Oracle.png": "/static/media/Oracle.45395c93504ec7aa18e3.png",
     "static/media/grpc.png": "/static/media/grpc.dacce3c467e7d38cdd5e.png",
     "static/media/twillo.png": "/static/media/twillo.1ed128ae9b727a291193.png",
     "static/media/Three.png": "/static/media/Three.7fb12860ab77b52d9aae.png",
     "static/media/emotion.png": "/static/media/emotion.234e16c16777ab164589.png",
     "static/media/about.png": "/static/media/about.3f741fe834a763b89e72.png",
+    "static/media/Siddhiprada_resume.pdf": "/static/media/Siddhiprada_resume.9e44d252c25c012807e2.pdf",
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/Linkedin.png": "/static/media/Linkedin.441d2b1292abce2991f9.png",
-    "static/media/Siddhiprada_resume.pdf": "/static/media/Siddhiprada_resume.cd21a1e6826aae174c28.pdf",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/logo.png": "/static/media/logo.dbd494a1c18021e08004.png",
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.ce900138.css.map": "/static/css/main.ce900138.css.map",
-    "main.21cd8738.js.map": "/static/js/main.21cd8738.js.map",
+    "main.d2154346.js.map": "/static/js/main.d2154346.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ce900138.css",
-    "static/js/main.21cd8738.js"
+    "static/js/main.d2154346.js"
   ]
 }
